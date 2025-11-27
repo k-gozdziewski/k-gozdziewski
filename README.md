@@ -4,14 +4,7 @@ Data Quality Specialist focused on building reliable data solutions and automate
 
 ## What I Do
 
-Currently working on data quality assurance for ~600 ETL processes, ensuring data integrity and process stability for analytics SaaS platforms. I design validation systems, monitor data pipelines, and build tools to maintain high data completeness standards.
-
-## Professional Highlights
-
-- 🎯 Built a data quality tracking system from scratch, improving data completeness from ~70% to nearly 100%
-- 🔍 Experienced in testing and validating marketing data pipelines across cloud environments
-- 📊 Creating automated validation scripts and monitoring dashboards for production systems
-- 🛠️ Supporting data engineering teams with issue identification and documentation
+Currently working on data quality assurance for ETL processes, ensuring data integrity and process stability for analytics SaaS platforms. I design validation systems, monitor data pipelines, and build tools to maintain high data completeness standards.
 
 ## Tech Stack
 
@@ -39,15 +32,5 @@ Currently working on data quality assurance for ~600 ETL processes, ensuring dat
 - Power Query for data transformation
 
 ## Currently Exploring
-
 Expanding knowledge in data engineering patterns and cloud-native data quality solutions.
 
-## Background
-
-📚 Management & Production Engineering (Food Processing specialization)  
-🎓 Engineering thesis on Excel functions in accounting applications  
-💼 3+ years in data analysis, quality assurance, and building reliable data solutions
-
----
-
-💡 Interested in data quality, ETL testing, and building automated validation systems for analytics platforms.
